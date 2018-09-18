@@ -12,6 +12,8 @@ No warranty, although I have built one and tested on A4000, A2000 and A500.
 
 If you are lazy, you can order PCBs from [dirtypcbs.com](http://dirtypcbs.com/store/designer/details/dalek/6137/amiga-to-vga-buffered-zip) and using that link I get a dollar woo!  If you are cheap just grab the gerber zip file and get them done wherever you like.
 
+Dale
+
 ## Schematic
 ![schematic](/photos/schematic.png)
 
@@ -19,12 +21,11 @@ If you are lazy, you can order PCBs from [dirtypcbs.com](http://dirtypcbs.com/st
 ![bottom](/photos/bottom.jpg)
 
 ## Top
-![top](/photos/top.png)
+![top](/photos/top.jpg)
 
 ## Connected
 ![connected](/photos/connected.jpg)
 
 
-Dale
 
 
