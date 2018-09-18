@@ -14,6 +14,8 @@ This method is a lot easier than stripping wires and soldering the cups :)
 
 If you are lazy, you can order PCBs from [dirtypcbs.com](http://dirtypcbs.com/store/designer/details/dalek/6137/amiga-to-vga-buffered-zip) and using that link I get a dollar woo!  If you are cheap just grab the gerber zip file and get them done wherever you like.
 
+I suggest 1.2mm board thickness (1.6mm works but is a tight fit).
+
 Dale
 
 ## Schematic
