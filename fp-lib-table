@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name SN74HCT08PWR)(type Legacy)(uri "$(KIPRJMOD)/SN74HCT08PWR.mod")(options "")(descr ""))
+  (lib (name conn-db15-SPC15430)(type KiCad)(uri "$(KIPRJMOD)/conn-db15-SPC15430")(options "")(descr ""))
+  (lib (name conn-db23_Female_Solder_Cup)(type KiCad)(uri "$(KIPRJMOD)/conn-db23_Female_Solder_Cup")(options "")(descr ""))
+)
